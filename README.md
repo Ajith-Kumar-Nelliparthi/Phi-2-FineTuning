@@ -1,6 +1,7 @@
 # Phi-2 Fine-Tuning
 ![alt text](image.png)
-This project focuses on fine-tuning the Phi-2 language model for custom tasks using deep learning techniques.
+
+This project focuses on fine-tuning the Phi-2 language model for custom tasks . The code is written in Python and utilizes the Hugging Face Transformers library for model fine-tuning
 
 ## Project Structure
 
